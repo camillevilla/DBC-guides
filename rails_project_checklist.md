@@ -13,10 +13,10 @@
   - associations
 - migrations
   - e.g. `rails g migration CreateZombiesTable name:string, body:text`
-- bin/rails db:migrate
+- `bin/rails db:migrate`
 - If using seeds
   - create seeds file
-  - bin/rails db:seed
+  - `bin/rails db:seed`
 - controllers
   - e.g. `class CategoriesController < ApplicationController`
   - Add RESTful actions (ISNECUD)

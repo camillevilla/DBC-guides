@@ -12,7 +12,7 @@
   - e.g. `class Category < ApplicationRecord`
   - associations
 - migrations
-  - e.g. `rails g migration CreateZombiesTable name:string, body:text`
+  - e.g. `rails g migration CreateZombies name:string body:text`
 - `bin/rails db:migrate`
 - If using seeds
   - create seeds file

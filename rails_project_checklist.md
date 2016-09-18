@@ -34,4 +34,5 @@
 ## More Resources
 - [CodeSchool Rails Cheatsheet](http://courseware.codeschool.com/rails_for_zombies_2_cheatsheets.pdf)
 - [Rails Blog Tutorial](http://guides.rubyonrails.org/getting_started.html)
-- @reedr3's [Rails Views guide](https://docs.google.com/presentation/d/1YnQ60gS43gvF4rlrQBIGzItQXdptHyHJgJ3au4zJLVU/edit#slide=id.g16a951c5c0_0_58)
+- [@reedr3](https://github.com/reedr3)'s [Rails Views guide](https://docs.google.com/presentation/d/1YnQ60gS43gvF4rlrQBIGzItQXdptHyHJgJ3au4zJLVU/edit#slide=id.g16a951c5c0_0_58)
+- [@korenlesliecohen](https://github.com/korenlesliecohen) [Rails: Generate Model vs. Resource vs. Scaffold](http://www.korenlc.com/rails-generate-model-vs-resourse-vs-scaffold/)

@@ -5,9 +5,12 @@ A few resources for my classmates at Dev Bootcamp.
 
 ## Pending
 
-- [ ] Minor Sublime Magick - keyboard shortcuts, regex, and 
+- [ ] Minor Sublime Magick - keyboard shortcuts, regex, multiple cursors
 - [ ] Setting up a Rails testing suite
   - [ ] Rspec-rails
   - [ ] Capybara
   - [ ] shoulda-matchers
   - [ ] factory_girl
+  - [ ] Travis CI
+- [ ] Devise walkthrough
+- [ ] Bootstrap basics

@@ -1,7 +1,8 @@
-# DBC-guides
-A few resources for my classmates at Dev Bootcamp. 
+# DBC Guides
+A few resources for Dev Bootcamp students 
 
 - [Checklist: Set up a Rails project from scratch](https://github.com/camillevilla/DBC-guides/blob/master/rails_project_checklist.md)
+- [Schema Design Example: Superheroes and Sidekicks](https://github.com/camillevilla/DBC-guides/blob/master/superheroes_schema)
 
 ## Pending
 
@@ -11,6 +12,10 @@ A few resources for my classmates at Dev Bootcamp.
   - [ ] Capybara
   - [ ] shoulda-matchers
   - [ ] factory_girl
-  - [ ] Travis CI
-- [ ] Devise walkthrough
+  - [ ] Database Cleaner
+- [ ] Continuous Integration: What & Why with Travis CI
+- [ ] Devise walkthrough ([slides](http://bit.ly/2oxqEV0), [repo](https://github.com/camillevilla/devise-example))
 - [ ] Bootstrap basics
+- [ ] Token auth with a decoupled app
+- [ ] bash aliases
+- [ ] Git workflow for teams

@@ -3,6 +3,7 @@ A few resources for Dev Bootcamp students
 
 - [Checklist: Set up a Rails project from scratch](https://github.com/camillevilla/DBC-guides/blob/master/rails_project_checklist.md)
 - [Schema Design Example: Superheroes and Sidekicks](https://github.com/camillevilla/DBC-guides/blob/master/superheroes_schema)
+- [Schema Examples for Odin Project: Active Record Associations](https://github.com/camillevilla/DBC-guides/blob/master/odin_ar_schema)
 
 ## Pending
 

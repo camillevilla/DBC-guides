@@ -5,6 +5,7 @@ A few resources for Dev Bootcamp students
 - [Schema Design Example: Superheroes and Sidekicks](https://github.com/camillevilla/DBC-guides/blob/master/superheroes_schema)
 - [Schema Examples for Odin Project: Active Record Associations](https://github.com/camillevilla/DBC-guides/blob/master/odin_ar_schema)
 - [Git Workflow Basics](https://github.com/camillevilla/DBC-guides/tree/master/git_workflow)
+- Devise Example ([slides](http://bit.ly/2oxqEV0), [repo](https://github.com/camillevilla/devise-example))
 
 ## Pending
 
@@ -16,7 +17,6 @@ A few resources for Dev Bootcamp students
   - [ ] factory_girl
   - [ ] Database Cleaner
 - [ ] Continuous Integration: What & Why with Travis CI
-- [ ] Devise walkthrough ([slides](http://bit.ly/2oxqEV0), [repo](https://github.com/camillevilla/devise-example))
 - [ ] Bootstrap basics
 - [ ] Token auth with a decoupled app
 - [ ] bash aliases

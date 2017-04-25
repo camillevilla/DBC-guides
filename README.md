@@ -1,7 +1,7 @@
 # DBC Guides
 
 ![Recursion comic](recursion_pooh.png)
-
+Excellent comic from: [Safely Endangered](http://www.safelyendangered.com/)
 
 A few resources for Dev Bootcamp students 
 
@@ -12,6 +12,7 @@ A few resources for Dev Bootcamp students
 - Devise Example ([slides](http://bit.ly/2oxqEV0), [repo](https://github.com/camillevilla/devise-example))
 
 ## Pending
+Requests? Open up an issue on this repo.
 
 - [ ] Minor Sublime Magick - keyboard shortcuts, regex, multiple cursors
 - [ ] Setting up a Rails testing suite

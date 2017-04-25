@@ -1,4 +1,8 @@
 # DBC Guides
+
+![Recursion comic](recursion_pooh.png)
+
+
 A few resources for Dev Bootcamp students 
 
 - [Checklist: Set up a Rails project from scratch](https://github.com/camillevilla/DBC-guides/blob/master/rails_project_checklist.md)

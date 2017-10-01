@@ -19,6 +19,9 @@ Excellent comic from: [Safely Endangered](http://www.safelyendangered.com/)
 - [Checklist: Set up a Rails project from scratch](https://github.com/camillevilla/DBC-guides/blob/master/rails_project_checklist.md)
 - Devise Auth Example ([slides](http://bit.ly/2oxqEV0), [repo](https://github.com/camillevilla/devise-example))
 
+### Alumni
+- [Open Source Contribution Checklist](https://github.com/camillevilla/DBC-guides/blob/master/open_source_contribution_checklist.md)
+
 ## Pending
 Requests? Open up an issue on this repo.
 
@@ -36,7 +39,7 @@ Requests? Open up an issue on this repo.
 - [ ] Git workflow for teams
 
 ## Other Resources
-- [DBC Talks](https://talks.devbootcamp.com): live codes / lectures from past and current DBC instructors 
+- [DBC Talks](https://talks.devbootcamp.com): live codes / lectures from past and current DBC instructors
 - [Odin Project](http://www.theodinproject.com/courses?ref=home): text-heavy curriculum that also includes links out to video resources and blogs
 - *[Treehouse](https://teamtreehouse.com/library): broad set of intro courses covering topics like: full-stack JS, CSS, iOS development. Most courses start out with a great conceptual overview and some brief notes on older implementations vs. what's up and coming.
 - *[Lynda.com / LinkedIn Learning](https://www.lynda.com/): GIANT set of training videos, also includes classes on topics like Agile, wireframing in Sketch, etc.

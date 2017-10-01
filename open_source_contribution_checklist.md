@@ -1,0 +1,32 @@
+# Open Source Contribution Checklist (draft)
+
+- Read the CONTRIBUTING.MD
+- Look at issues queue
+- Find something you feel about 30% comfortable working on
+- Comment in the issue that you’ll be working on it
+  - mention that you’re a new contributor!
+- Get clarification if any of the acceptance criteria are unclear
+- Fork the project, clone down the repo
+- Follow any installation instructions and run the tests
+- If the tests aren’t passing: ask for help troubleshooting your dev environment
+- Start working on the code you’re interest in
+  - If you’re updating code: comment out the method you’ll be working on and see which tests break. If no tests break, proceed with caution.
+  - If you added new code: write a test that describes what you did
+- Once you’re done, run the entire test suite
+  - Did any tests break?
+- Push your code up to your fork
+- Review the files changed and your commit messages
+- Clean up your commit messages, squash some commits together
+- Open a pull request between your fork and the master fork
+  - Use the PR template if anything is provided
+  - Reference the issue number your pull request addresses
+  - Wait for your PR to pass review tools (Continuous integration, code coverage tools, style checkers)
+  - Fix any violations, rebase your commits, and force-push your changes
+- Ping the project maintainer; mention that you have a PR ready for review on their Slack channel etc.
+- Wait! Project maintainers are busy people
+- Code review
+  - Does any of the feedback confuse you? Ask for clarification
+  - Make changes, rebase, and force push up to your branch
+  - Respond to each comment (e.g. ✅, or "Thanks! That's clearer.")
+  - Make one comment at the end of the PR noting that you've made changes
+  - Ping the maintainer, Slack channel, etc. to take another look
